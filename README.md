@@ -1,15 +1,10 @@
-Now tests are separated into different files and extended from Base Test class
-Test framework is switched to TestNG, added data providers for tests so the could do same verifications with different account data from csv files
-I'm using Windows, so I made possibility to run Windows ChromeDriver depending on what's set in testing.properties
-Added logging in console
-Methods of interaction with browser are separated into different page files extended from PageObject so they could be easier maintained and reused
+# What's done
 
-
-
-
-
-
-
+* Now tests are separated into different files and extended from Base Test class
+* Test framework is switched to TestNG, added data providers for tests so the could do same verifications with different account data from csv files
+* I'm using Windows, so I made possibility to run Windows ChromeDriver depending on what's set in testing.properties
+* Added logging in console
+* Methods of interaction with browser are separated into different page files extended from PageObject so they could be easier maintained and reused
 
 
 
